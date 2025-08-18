@@ -32,3 +32,7 @@ eg:
   - Allows for configuring timestamping, not just datestamping
   - Works with last modification dates as well
   - KatieTheDev ([@KatieTheDev](https://github.com/KatieTheDev))
+
+- **Search page** (https://github.com/ubalot/hugo-theme-terminal)
+  - A layout where the user can search for posts through selected parameters.
+  - Ubalot ([@Ubalot](https://github.com/ubalot)), software developer.

@@ -1,0 +1,38 @@
+{{ define "main" }}
+<div class="post">
+  <h1 class="post-title">{{ .Title }}</h1>
+
+  <div class="post-content">
+    {{ .Content }}
+
+    <style>
+
+    </style>
+
+    <div class="search-container">
+      <div class="search-row">
+
+        <!-- search input -->
+        <div class="search-input-box">
+          <input id="search-input" tabindex="0" placeholder="Enter search terms...">
+          <ul id="suggestions-list" class="suggestions-list"></ul>
+        </div>
+
+        <!-- search buttons -->
+        <div class="button-group">
+          <button id="search-button">Search</button>
+          <button id="clear-button">Clear</button>
+        </div>
+
+      </div>
+
+      <!-- search results -->
+      <ul id="search-results"></ul>
+    </div>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
+<script src="{{ "/js/search.js" | relURL }}"></script>
+{{ end }}

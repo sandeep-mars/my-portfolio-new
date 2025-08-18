@@ -3,12 +3,23 @@ languageCode = "en-us"
 theme = "hugo-theme-terminal"
 pagination.pagerSize = 5
 
+# this is new!!
+[outputs]
+  # Needed for search, add JSON to normal outputs
+  home = ["HTML", "RSS", "JSON"]
+
+# this is new!!
+[params.search]
+  enabled = true
+  fuseOpts = ['tags', 'keywords', 'categories']
+
+
 [markup.goldmark.renderer]
   unsafe = true
 
 [params]
   contentTypeName = "posts"
-  showMenuItems = 2
+  showMenuItems = 3
   fullWidthTheme = false
   centerTheme = false
 
@@ -35,3 +46,7 @@ pagination.pagerSize = 5
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "search"
+        name = "Search"
+        url = "/search"
