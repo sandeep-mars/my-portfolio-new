@@ -1,4 +1,28 @@
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = '0.90.0'
+baseURL = "https://sandeep-mars.github.io/my-portfolio-final/"
+languageCode = "en-us"
+title = "Sandeep Mars | Data Engineer"
+theme = "terminal"
+
+[params]
+  # The "Command Line" prompt text
+  contentTypeName = "projects"
+  showLastUpdated = true
+  themeColor = "blue"
+  showReadingTime = false
+  showLogo = true
+  showMenu = true
+
+[languages]
+  [languages.en]
+    title = "Sandeep Mars"
+    subtitle = "Data Engineer | Infrastructure & Real-Time Streaming"
+    keywords = ["Data Engineer", "Terraform", "PySpark", "Azure"]
+    copyright = "Sandeep Mars"
+
+    [languages.en.params.logo]
+      logoText = "Sandeep@Mars: ~$"
+      logoHomeLink = "/"
+
+    [[languages.en.menu.main]]
+      name = "Projects"
+      url = "/projects"
