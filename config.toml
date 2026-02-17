@@ -12,7 +12,3 @@ theme = "terminal"
 [languages.en]
   title = "Sandeep Mars"
   subtitle = "Data Engineer | Politecnico di Milano Alum"
-  
-  [[languages.en.menu.main]]
-    name = "About"
-    url = "/about"
