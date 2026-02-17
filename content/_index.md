@@ -1,13 +1,24 @@
-Data Engineer | AWS Solutions Architect
+---
+title: "Sandeep Thambali Nagabothu | Data Engineer"
+---
 
-Profile: 4 years of international experience (Netherlands, Italy, India) specializing in Databricks and PySpark.
+# 👨‍💻 Data Engineer | AWS Solutions Architect
 
-Impact: Managed TB-scale telemetry for Ziggo/Virgin Media and reduced processing time by 40%.
+> **International Experience**: 4 years across the **Netherlands, Italy, and India**.
 
-DataOps: Automated Azure infrastructure via Terraform and GitHub Actions, cutting deployment errors by 90%.
+### 🚀 Professional Summary
+* **Profile**: Specializing in **Databricks**, **Apache Spark**, and scalable **DataOps**.
+* **Impact**: Managed **TB-scale telemetry** for [Ziggo / Virgin Media](https://www.libertyglobal.com/) and reduced processing time by **40%**.
+* **DataOps**: Automated Azure infrastructure via **Terraform** and **GitHub Actions**, cutting deployment errors by **90%**.
 
-Projects: Cloud Automation (Terraform/Azure) & RAG-AI Pipeline (LangChain/Python).
+### 📁 Technical Projects
+* [**Cloud Automation**](https://github.com/sandeep-mars): Full Azure Data Platform deployment using **Terraform**.
+* [**RAG-AI Pipeline**](https://github.com/sandeep-mars): Document retrieval system using **LangChain** and **Python**.
 
-Education: M.Sc. Electrical Engineering, Politecnico di Milano, Italy.
+### 🎓 Education & Certification
+* **M.Sc. Electrical Engineering**: [Politecnico di Milano, Italy](https://www.polimi.it/en/).
+* **Certification**: [AWS Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/).
 
-Connect: https://www.linkedin.com/in/sandeep-nagabothu-110349257/ | https://github.com/sandeep-mars | sandeepthambali45@gmail.com.
+---
+### 📬 Connect With Me
+[**LinkedIn**](https://www.linkedin.com/in/sandeep-nagabothu-110349257/) | [**GitHub**](https://github.com/sandeep-mars) | **sandeepthambali45@gmail.com**
