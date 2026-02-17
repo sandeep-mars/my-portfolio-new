@@ -4,10 +4,10 @@ title = "Sandeep Mars | Data Engineer"
 theme = "terminal"
 
 [params]
-  # The "Command Line" prompt text
+  # Theme options: blue, orange, red, green, pink
+  themeColor = "blue"
   contentTypeName = "projects"
   showLastUpdated = true
-  themeColor = "blue"
   showReadingTime = false
   showLogo = true
   showMenu = true
@@ -16,8 +16,8 @@ theme = "terminal"
   [languages.en]
     title = "Sandeep Mars"
     subtitle = "Data Engineer | Infrastructure & Real-Time Streaming"
-    keywords = ["Data Engineer", "Terraform", "PySpark", "Azure"]
-    copyright = "Sandeep Mars"
+    keywords = ["Data Engineer", "Terraform", "PySpark", "Azure", "Politecnico di Milano"]
+    copyright = "© 2026 Sandeep Mars"
 
     [languages.en.params.logo]
       logoText = "Sandeep@Mars: ~$"
@@ -26,3 +26,7 @@ theme = "terminal"
     [[languages.en.menu.main]]
       name = "Projects"
       url = "/projects"
+    
+    [[languages.en.menu.main]]
+      name = "About"
+      url = "/about"
