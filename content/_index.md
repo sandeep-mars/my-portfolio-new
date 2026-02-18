@@ -21,4 +21,4 @@ title: "Sandeep Thambali Nagabothu | Data Engineer"
 
 ---
 ### 📫 Connect With Me
-[GitHub](https://github.com/sandeep-mars) | sandeepthambali45@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sandeep-nagabothu-110349257/) | [GitHub](https://github.com/sandeep-mars) | sandeepthambali45@gmail.com
